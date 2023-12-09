@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class P04 {
+public class P04 {
+    public static void main(String[] args) {
+        System.out.println("merhaba");
+    }
 }
